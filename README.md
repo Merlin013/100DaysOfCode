@@ -9,3 +9,7 @@
 - Python Variables
 - Variables naming
 - Band name Generator
+
+###Day 2 (17-06-2022)
+- Data types, Numbers, Operations, Type Conversion, f-Strings
+- Tip Calculator
