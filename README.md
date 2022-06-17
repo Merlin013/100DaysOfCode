@@ -12,4 +12,8 @@
 
 ###Day 2 (17-06-2022)
 - Data types, Numbers, Operations, Type Conversion, f-Strings
+- BMI Calculator
+- Data Types Sample example
+- Life in Weeks
 - Tip Calculator
+- 
