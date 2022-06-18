@@ -16,4 +16,7 @@
 - Data Types Sample example
 - Life in Weeks
 - Tip Calculator
-- 
+- f-Strings 
+
+###Day 3 (18-06-2022)
+- Odd or Even
