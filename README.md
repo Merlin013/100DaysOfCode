@@ -20,3 +20,8 @@
 
 ###Day 3 (18-06-2022)
 - Odd or Even
+- Condition Statements
+- Logical operators
+- Code Blocks and Scope
+- Global and Local name spacing
+- BMI 2.0
