@@ -18,7 +18,7 @@
 - Tip Calculator
 - f-Strings 
 
-###Day 3 (18-06-2022)
+###Day 3 (18-06-2022 to 28-06-2022)
 - Odd or Even
 - Condition Statements
 - Logical operators
