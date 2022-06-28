@@ -27,3 +27,4 @@
 - BMI 2.0
 - Leap year program
 - Pizza Order Practice program
+- Love calculator program
