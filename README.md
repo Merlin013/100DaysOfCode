@@ -33,4 +33,6 @@
 - Randomisation
 - Heads or Tails program
 - Lists
-- Banker Roulette 
+- Nested Lists
+- Banker Roulette program
+- Treasure Map program
