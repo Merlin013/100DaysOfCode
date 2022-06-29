@@ -32,3 +32,5 @@
 ### Day 4 (29-06-2022)
 - Randomisation
 - Heads or Tails program
+- Lists
+- Banker Roulette 
