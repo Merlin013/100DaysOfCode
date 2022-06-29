@@ -28,3 +28,7 @@
 - Leap year program
 - Pizza Order Practice program
 - Love calculator program
+
+### Day 4 (29-06-2022)
+- Randomisation
+- Heads or Tails program
