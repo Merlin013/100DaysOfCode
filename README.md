@@ -43,3 +43,5 @@
 - Average Height program
 - High Score program
 - Adding even numbers program
+- FizzBuzz program
+- Password generator
