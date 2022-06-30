@@ -38,7 +38,8 @@
 - Treasure Map program
 - Rock Paper Scissors Game
 
-### Day 5 (29-06-2022)
+### Day 5 (29-06-2022 & 30-06-2022)
 - For Loops
 - Average Height program
 - High Score program
+- Adding even numbers program
