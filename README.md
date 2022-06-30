@@ -44,4 +44,8 @@
 - High Score program
 - Adding even numbers program
 - FizzBuzz program
-- Password generator
+- Password generator program
+
+### Day 6 (30-06-2022)
+- Code blocks
+- 
