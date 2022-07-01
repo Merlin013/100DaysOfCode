@@ -47,6 +47,7 @@
 - Password generator program
 
 ### Day 6 (30-06-2022 and 01-07-2022)
+*Day 6 has no practice programs*
 - Code blocks
 - Functions
 - While Loops
