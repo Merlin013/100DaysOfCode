@@ -53,4 +53,7 @@
 - While Loops
 - Reeborg's world (*https://reeborg.ca/index_en.html*)
 - Indentation
-- 
+
+### Day 7 (02-07-2022)
+- Hangman Game
+- Flow chart programming
