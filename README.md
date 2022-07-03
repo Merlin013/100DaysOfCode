@@ -57,3 +57,11 @@
 ### Day 7 (02-07-2022)
 - Hangman Game
 - Flow chart programming
+
+### Day 8 (03-07-2022)
+- Functions and inputs
+- Positional vs. Keyword arguments
+- Paint area calculator program
+- Prime number checker program
+- Caesar Cipher program
+- 
