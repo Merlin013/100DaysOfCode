@@ -58,7 +58,7 @@
 - Hangman Game
 - Flow chart programming
 
-### Day 8 (03-07-2022)
+### Day 8 (03-07-2022 and 04-07-2022)
 - Functions and inputs
 - Positional vs. Keyword arguments
 - Paint area calculator program
