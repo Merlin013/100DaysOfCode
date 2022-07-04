@@ -64,4 +64,8 @@
 - Paint area calculator program
 - Prime number checker program
 - Caesar Cipher program
-- 
+
+### Day 9 (04-07-2022)
+- Dictionaries and nesting
+- Auction program
+
