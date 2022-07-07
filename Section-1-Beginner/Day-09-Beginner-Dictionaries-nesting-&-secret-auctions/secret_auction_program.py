@@ -1,8 +1,8 @@
 import os
-
+from auction_art import logo
 bids = {}
 bidding = True
-
+print(logo)
 while bidding:
     print("Welcome to the secret Auction Program!")
     name = input("Enter your name: ")
