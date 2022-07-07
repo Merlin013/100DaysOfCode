@@ -16,12 +16,12 @@ while bidding:
         bidding = False
 
 highest_bid = 0
-
+winner = ""
 for names in bids:
     if bids[names] > highest_bid:
         highest_bid = bids[names]
-        high_name = names
+        winner = names
     else:
         continue
 
-print("The winner is {} with a bid of ${}.".format(high_name, highest_bid))
+print("The winner is {} with a bid of ${}.".format(winner, highest_bid))
