@@ -69,5 +69,5 @@
 - Dictionaries and nesting
 - Auction program
 - Grading program
-- 
+- Dictionary in list program
 
