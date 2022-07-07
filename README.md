@@ -65,7 +65,9 @@
 - Prime number checker program
 - Caesar Cipher program
 
-### Day 9 (04-07-2022)
+### Day 9 (04-07-2022 and 07-07-2022)
 - Dictionaries and nesting
 - Auction program
+- Grading program
+- 
 
