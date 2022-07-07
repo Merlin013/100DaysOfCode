@@ -8,6 +8,7 @@ while bidding:
     name = input("Enter your name: ")
     bid = int(input("What is your bid?: $"))
     bids = {name: bid}
+    # or can be written as bids[name] = bid
     answer = input("Are there any other bidders? Type 'yes' or 'no'.\n").lower()
     if answer == "yes":
         os.system("cls")
