@@ -25,11 +25,11 @@ symbols = {"+": add,
 
 
 num1 = int(input("What's the first number?: "))
-num2 = int(input("What's the second number?: "))
-
 for symbol in symbols:
     print(symbol)
 operation = input("Which operations do you want to perform? ")
+num2 = int(input("What's the second number?: "))
+
 value = symbols[operation](num1, num2)
 
 print("{} {} {} = {}".format(num1, operation, num2, value))
