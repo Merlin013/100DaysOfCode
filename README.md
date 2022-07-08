@@ -71,3 +71,7 @@
 - Grading program
 - Dictionary in list program
 
+### Day 10 (08-07-2022)
+- Functions with outputs
+- Calculator application
+
