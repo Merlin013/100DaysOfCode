@@ -27,9 +27,16 @@ symbols = {"+": add,
 num1 = int(input("What's the first number?: "))
 for symbol in symbols:
     print(symbol)
-operation = input("Which operations do you want to perform? ")
-num2 = int(input("What's the second number?: "))
+should_continue = True
+while should_continue:
 
-value = symbols[operation](num1, num2)
+    operation = input("Which operations do you want to perform? ")
+    num2 = int(input("What's the next number?: "))
 
-print("{} {} {} = {}".format(num1, operation, num2, value))
+    answer = symbols[operation](num1, num2)
+
+    print("{} {} {} = {}".format(num1, operation, num2, answer))
+    if input("Type 'y' to continue calculating with {}. ".format(answer)) == "y":
+        num1 = answer
+    else:
+        should_continue = False
