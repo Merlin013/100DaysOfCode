@@ -14,7 +14,7 @@ def is_leap(year):
 def days_in_month(year, month):
     month_days = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
     year_check = is_leap(year)
-    if year_check == True:
+    if year_check:
         if month == 2:
             return 29
     else:
