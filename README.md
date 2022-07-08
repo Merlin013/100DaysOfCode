@@ -73,5 +73,6 @@
 
 ### Day 10 (08-07-2022)
 - Functions with outputs
-- Calculator application
+- Calculator application program
+- Days in month program
 
