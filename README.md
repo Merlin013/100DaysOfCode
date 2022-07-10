@@ -78,5 +78,10 @@
 
 ### Day 11 (09-07-2022)
 - Capstone project - BlackJack
-- 
+
+### Day 12 (10-07-2022)
+- Scope and number guessing game
+- Local and global scope 
+- Namespace
+- Does python have block scope? - No
 
