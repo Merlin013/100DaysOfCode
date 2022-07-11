@@ -85,3 +85,7 @@
 - Namespace
 - Does python have block scope? - No
 
+### Day 13 (11-07-2022)
+- Debugging
+- Reproducing bugs
+
