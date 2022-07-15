@@ -89,3 +89,6 @@
 - Debugging
 - Reproducing bugs
 
+### Day 14 (15-07-2022)
+- Higher lower game
+- 
