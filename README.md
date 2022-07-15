@@ -91,4 +91,7 @@
 
 ### Day 14 (15-07-2022)
 - Higher lower game
-- 
+
+### Day 15 (15-07-2022)
+- Local development environment setup
+- Coffee machine project
