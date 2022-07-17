@@ -95,3 +95,6 @@
 ### Day 15 (15-07-2022 and 17-07-2022)
 - Local development environment setup
 - Coffee machine project
+
+### Day 16 (17-07-2022)
+- Object-oriented Programming (OOP)
