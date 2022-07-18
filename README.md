@@ -101,3 +101,6 @@
 - Classes and Objects
 - Constructing objects and accessing their attributes and methods
 - Turtle program
+- PyPi packages
+- Pretty Table program
+- 
