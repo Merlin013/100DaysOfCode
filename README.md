@@ -98,3 +98,6 @@
 
 ### Day 16 (17-07-2022)
 - Object-oriented Programming (OOP)
+- Classes and Objects
+- Constructing objects and accessing their attributes and methods
+- Turtle program
