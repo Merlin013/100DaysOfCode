@@ -1,5 +1,6 @@
 # \#100DaysOfCode
- Contains code learnt from the 100 Days of Code course(Udemy) and logs my progress from each day.
+ Contains code learnt from the 100 Days of Code course(Udemy) \
+ and logs my progress from each day.
 
 ### Day 1 (16-06-2022) 
 - Learnt about printing techniques.
@@ -96,11 +97,15 @@
 - Local development environment setup
 - Coffee machine project
 
-### Day 16 (17-07-2022)
+### Day 16 (17-07-2022 and 19-07-2022)
 - Object-oriented Programming (OOP)
 - Classes and Objects
 - Constructing objects and accessing their attributes and methods
 - Turtle program
 - PyPi packages
 - Pretty Table program
-- 
+- Coffee maker program using classes
+
+### Day 17 (19-07-2022)
+- Creating your own classes
+- Quiz Game
