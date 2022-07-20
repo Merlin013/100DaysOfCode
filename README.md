@@ -106,6 +106,6 @@
 - Pretty Table program
 - Coffee maker program using classes
 
-### Day 17 (19-07-2022)
+### Day 17 (19-07-2022 and 20-07-2022)
 - Creating your own classes
 - Quiz Game
