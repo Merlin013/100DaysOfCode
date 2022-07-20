@@ -109,3 +109,10 @@
 ### Day 17 (19-07-2022 and 20-07-2022)
 - Creating your own classes
 - Quiz Game
+- Constructors
+- Attributes and methods
+
+### Day 18 (20-07-2022)
+- Turtle graphics
+- Tuples
+- Importing modules
