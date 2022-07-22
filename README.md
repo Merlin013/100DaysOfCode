@@ -116,3 +116,10 @@
 - Turtle graphics
 - Tuples
 - Importing modules
+- Turtle movement
+- Turtle color
+- Random walk program
+- Drawing spirograph
+- colorgram.py module
+- Hirst Painting Project
+- 
