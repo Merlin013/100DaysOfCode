@@ -112,7 +112,7 @@
 - Constructors
 - Attributes and methods
 
-### Day 18 (20-07-2022)
+### Day 18 (20-07-2022 to 22-07-2022)
 - Turtle graphics
 - Tuples
 - Importing modules
