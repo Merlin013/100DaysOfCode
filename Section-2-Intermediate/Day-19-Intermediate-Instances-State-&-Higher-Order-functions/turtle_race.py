@@ -1,12 +1,11 @@
 from turtle import Turtle, Screen
 import random
 
-
 screen = Screen()
 is_race_on = False
 # Setting the dimensions of the screen
 screen.setup(width=500, height=400)
-
+screen.title("Turtle Race !")
 # Taking input from user using a popup dialogue box
 user_bet = screen.textinput(title="Make your Bet!", prompt="Which turtle will win the race? 'VIBGYOR' Enter a color: ")
 colors = ["violet", "indigo", "blue", "green", "yellow", "orange", "red"]
@@ -37,6 +36,5 @@ while is_race_on:
                 break
         rand_distance = random.randint(0, 10)
         turtle.forward(rand_distance)
-
 
 screen.exitonclick()
