@@ -122,4 +122,9 @@
 - Drawing spirograph
 - colorgram.py module
 - Hirst Painting Project
+
+### Day 19 (25-07-2022)
+- Instances, States and higher order functions
+- More Turtle graphics
+- Event Listeners
 - 
