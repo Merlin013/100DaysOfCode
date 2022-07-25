@@ -127,4 +127,4 @@
 - Instances, States and higher order functions
 - More Turtle graphics
 - Event Listeners
-- 
+- Turtle movements
