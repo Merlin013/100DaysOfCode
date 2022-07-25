@@ -128,3 +128,5 @@
 - More Turtle graphics
 - Event Listeners
 - Turtle movements
+- Setting the dimensions of the turtle screen
+- 
