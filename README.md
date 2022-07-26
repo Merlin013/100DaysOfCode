@@ -129,4 +129,7 @@
 - Event Listeners
 - Turtle movements
 - Setting the dimensions of the turtle screen
+
+### Day 20 (26-07-2022)
+- Build the Snake Game Part 1: Animation & Coordinates
 - 
