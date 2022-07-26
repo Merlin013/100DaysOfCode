@@ -132,4 +132,7 @@
 
 ### Day 20 (26-07-2022)
 - Build the Snake Game Part 1: Animation & Coordinates
-- 
+- Tracer method
+- Update method in Screen
+- Snake movement by body following the head
+
