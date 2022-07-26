@@ -18,7 +18,7 @@ for turtle_index in range(0, 7):
     new_turtle = Turtle(shape="turtle")
     new_turtle.color(colors[turtle_index])
     new_turtle.penup()
-    new_turtle.goto(x=-235, y=y_positions[turtle_index])
+    new_turtle.goto(x=-235, y=y_positions[turtle_index])  # making the turtle go to specific x and y coordinates
     all_turtles.append(new_turtle)
 
 if user_bet:
