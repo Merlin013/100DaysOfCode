@@ -136,3 +136,7 @@
 - Update method in Screen
 - Snake movement by body following the head
 
+### Day 21 (27-07-2022)
+- Class Inheritance
+- Slicing
+- Completing snake game
