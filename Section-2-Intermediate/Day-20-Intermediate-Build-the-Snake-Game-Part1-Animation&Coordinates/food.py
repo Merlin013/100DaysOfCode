@@ -1,5 +1,6 @@
 from turtle import Turtle
 import random
+#import game_sounds
 
 COLOR = ["red", "blue", "green", "white"]
 
@@ -20,3 +21,4 @@ class Food(Turtle):
         random_x = random.randint(-280, 280)
         random_y = random.randint(-280, 280)
         self.goto(random_x, random_y)
+        #game_sounds.spawn_sound()
