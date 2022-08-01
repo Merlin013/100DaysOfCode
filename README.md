@@ -137,6 +137,11 @@
 - Snake movement by body following the head
 
 ### Day 21 (27-07-2022)
+*Day 21 has no practice programs*
 - Class Inheritance
 - Slicing
 - Completing snake game
+
+### Day 22 (01-08-2022)
+- Build Pong game
+- 
