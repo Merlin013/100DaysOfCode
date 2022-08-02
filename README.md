@@ -144,4 +144,6 @@
 
 ### Day 22 (01-08-2022)
 - Build Pong game
-- 
+
+### Day 23 (02-08-2022)
+- The turtle capstone project
