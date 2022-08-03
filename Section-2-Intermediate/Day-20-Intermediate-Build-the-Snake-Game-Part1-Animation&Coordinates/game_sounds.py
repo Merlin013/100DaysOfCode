@@ -12,7 +12,7 @@ pygame.init()
 def bg_music():
     mixer.music.load(background)
     mixer.music.play(-1)
-    mixer.music.set_volume(0.1)
+    mixer.music.set_volume(0.2)
 
 
 # Food spawn sound
