@@ -18,7 +18,7 @@ class Food(Turtle):
 
     def refresh(self):
         self.color(random.choice(COLOR))
-        random_x = random.randint(-280, 280)
-        random_y = random.randint(-280, 280)
+        random_x = random.randint(-278, 278)
+        random_y = random.randint(-278, 278)
         self.goto(random_x, random_y)
         #game_sounds.spawn_sound()
