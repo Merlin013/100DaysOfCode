@@ -148,7 +148,7 @@
 ### Day 23 (02-08-2022)
 - The turtle capstone project
 
-### Day 24 (03-08-2022)
+### Day 24 (03-08-2022, 04-08-2022)
 - Files, Directories and Paths
 - Upgrading snake game with High Score
-- 
+- "with" keyword to open files
