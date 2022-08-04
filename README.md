@@ -152,3 +152,4 @@
 - Files, Directories and Paths
 - Upgrading snake game with High Score
 - "with" keyword to open files
+- Absolute and Relative file paths
