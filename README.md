@@ -153,3 +153,8 @@
 - Upgrading snake game with High Score
 - "with" keyword to open files
 - Absolute and Relative file paths
+
+### Day 25 (08-08-2022)
+- Working with CSV files
+- Pandas
+- 
