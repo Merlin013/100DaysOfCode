@@ -154,7 +154,11 @@
 - "with" keyword to open files
 - Absolute and Relative file paths
 
-### Day 25 (08-08-2022)
+### Day 25 (09-08-2022)
 - Working with CSV files
 - Pandas
+
+### Day 26 (10-08-2022)
+- Lists and Dictionary comprehension
+- NATO Alphabets
 - 
