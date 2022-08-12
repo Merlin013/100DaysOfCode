@@ -158,7 +158,8 @@
 - Working with CSV files
 - Pandas
 
-### Day 26 (10-08-2022)
+### Day 26 (10-08-2022 and 12-08-2022)
 - Lists and Dictionary comprehension
 - NATO Alphabets
+- Looping through a dataframe with iterrows() method
 - 
