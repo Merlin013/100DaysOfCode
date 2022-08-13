@@ -159,7 +159,13 @@
 - Pandas
 
 ### Day 26 (10-08-2022 and 12-08-2022)
-- Lists and Dictionary comprehension
+- Lists and Dictionary comprehension *(Very Imp)*
 - NATO Alphabets
-- Looping through a dataframe with iterrows() method
-- 
+- Looping through a dataframe with iterrows() method *(Very Imp)*
+
+### Day 27 (13-08-2022)
+- GUI with Tkinter *(Very Imp)*
+- Function arguments
+- Creating labels and buttons
+- Advanced functions *args and **kwargs
+- Unit converter program
