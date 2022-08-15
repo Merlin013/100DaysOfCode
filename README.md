@@ -170,3 +170,6 @@
 - Advanced functions *args and **kwargs
 - Unit converter program
 - Unlimited Positional arguments *args
+- Buttons, Entry and Setting Component options
+- Text entry box, radio buttons, scales, checkbuttons
+- Spin box, list box
