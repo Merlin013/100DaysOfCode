@@ -21,8 +21,8 @@ miles_label.grid(row=0, column=2)
 km_label = Label(text="KM")
 km_label.grid(row=1, column=2)
 
-calculate_label = Label(text="is equal to ")
-calculate_label.grid(row=1, column=0)
+is_equal_to = Label(text="is equal to ")
+is_equal_to.grid(row=1, column=0)
 
 ans_label = Label(text="0")
 ans_label.grid(row=1, column=1)
