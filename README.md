@@ -163,13 +163,19 @@
 - NATO Alphabets
 - Looping through a dataframe with iterrows() method *(Very Imp)*
 
-### Day 27 (13-08-2022)
+### Day 27 (13-08-2022 to 16-08-22)
 - GUI with Tkinter *(Very Imp)*
 - Function arguments
 - Creating labels and buttons
 - Advanced functions *args and **kwargs
-- Unit converter program
+- Unit converter program (Miles to KM)
 - Unlimited Positional arguments *args
 - Buttons, Entry and Setting Component options
 - Text entry box, radio buttons, scales, checkbuttons
 - Spin box, list box
+
+### Day 28 (16-08-2022)
+- Building a Pomodoro app
+- Canvas widget
+- Countdown timer
+- Dynamic typing
