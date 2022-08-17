@@ -179,3 +179,6 @@
 - Canvas widget
 - Countdown timer
 - Dynamic typing
+
+### Day 29 (17-08-2022)
+- Password manager app
