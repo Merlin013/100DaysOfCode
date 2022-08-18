@@ -184,4 +184,8 @@
 - Password manager app
 - Grid attribute - columnspan *(Imp)*
 - Standard Dialogs 
-- 
+
+### Day 30 (18-08-2022)
+- Handling errors and exceptions
+- Catching exceptions
+- Raising exceptions
