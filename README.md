@@ -189,3 +189,6 @@
 - Handling errors and exceptions
 - Catching exceptions
 - Raising exceptions
+- JSON data
+- Password manager update (search functionality and exception handling.)
+
