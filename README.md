@@ -194,4 +194,5 @@
 
 ### Day 31 (20-08-2022)
 - Flashcard project
+- Pandas dataframe.to_dict - orient="records" *(Very imp)*
 
