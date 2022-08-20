@@ -192,3 +192,6 @@
 - JSON data
 - Password manager update (search functionality and exception handling.)
 
+### Day 31 (20-08-2022)
+- Flashcard project
+
