@@ -196,3 +196,8 @@
 - Flashcard project
 - Pandas dataframe.to_dict - orient="records" *(Very imp)*
 
+### Day 32 (25-08-2022)
+- Email SMTP and datetime module
+- Automated birthday wisher
+- 
+
