@@ -199,5 +199,9 @@
 ### Day 32 (25-08-2022)
 - Email SMTP and datetime module
 - Automated birthday wisher
-- 
+- starttls()
 
+### Day 33 (26-08-2022)
+- Application Programming Interfaces (API's)
+- ISS tracker and notifier
+- Anime quote generator using API's
